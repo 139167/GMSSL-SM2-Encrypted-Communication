@@ -1,0 +1,9 @@
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/src.dir
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/src_autogen_timestamp_deps.dir
+/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/src_autogen.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+1	171	1704366279870075408	src_autogen/timestamp	267733b573d67138
+1	171	1704366279870075408	src_autogen/mocs_compilation.cpp	267733b573d67138
+1	171	1704366279870075408	/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/src_autogen/timestamp	267733b573d67138
+1	171	1704366279870075408	/home/archuser/coding/GMSSL-SM2-Encrypted-Communication/frontend/build-src-Desktop_Qt_6_6_1_GCC_64bit-Debug/src_autogen/mocs_compilation.cpp	267733b573d67138
+171	1087	1704366280790075419	CMakeFiles/src.dir/src_autogen/mocs_compilation.cpp.o	5a3321059fc7f80e
+172	1108	1704366280813408752	CMakeFiles/src.dir/main.cpp.o	6ef206b3ac25fe7
+172	1150	1704366280853408753	CMakeFiles/src.dir/mainwindow.cpp.o	b54dce8aacf5bb82
+1150	1307	1704366281010075421	src	513f1595ccc1cbbe
